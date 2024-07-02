@@ -36,3 +36,6 @@ RDBMS на 4 сервиса гарантирует консистентност�
 
 ### Коммуникации
 ![communication_services.jpg](communication_services.jpg)
+
+### ADR
+[ADR-099.md](ADR-099.md)
